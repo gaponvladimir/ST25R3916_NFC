@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "*.h": "c"
+    },
+    "C_Cpp.clang_format_path": "/opt/local/bin/clang-format-mp-12"
+}
